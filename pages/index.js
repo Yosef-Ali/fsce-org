@@ -9,18 +9,18 @@ export default function Home() {
 					max-w-screen-xl = 1280px = max-width:80rem
 				</span>
 			</div>
-			<div className='grid h-10 max-w-screen-lg mx-auto mt-1 font-bold bg-gray-100 place-content-center'>
+			<div className='grid h-10 max-w-screen-lg mx-auto mt-1 font-bold bg-primary-300 place-content-center'>
 				<span className='px-1 text-center'>
 					max-w-screen-lg = 1024px = max-width:64rem
 				</span>
 			</div>
-			<div className='grid h-10 max-w-screen-md mx-auto mt-1 font-bold bg-gray-100 place-content-center'>
+			<div className='grid h-10 max-w-screen-md mx-auto mt-1 font-bold bg-primary-200 place-content-center'>
 				<span className='px-1 text-center'>
 					max-w-screen-md = max-w-3xl= 768px = max-width:48rem
 				</span>
 				<span className='px-1 text-center' />
 			</div>
-			<div className='grid h-10 max-w-sm mx-auto mt-1 font-bold bg-gray-100 place-content-center'>
+			<div className='grid h-10 max-w-sm mx-auto mt-1 font-bold bg-primary-200 place-content-center'>
 				<span className='px-1 text-center'>
 					max-w-sm = 375px = max-width:24rem
 				</span>
