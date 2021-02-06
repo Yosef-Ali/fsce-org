@@ -35,7 +35,10 @@ export default function Home() {
 				<main className='flex flex-col content-center justify-center py-24'>
 					<h1 className='m-0 text-6xl leading-relaxed text-center no-underline'>
 						Welcome to{' '}
-						<a href='https://nextjs.org' className='text-gray-500'>
+						<a
+							href='https://nextjs.org'
+							className='font-black text-primary-500'
+						>
 							Next.js!
 						</a>
 					</h1>
